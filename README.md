@@ -7,3 +7,7 @@ The car that got up to 1350 ELO and top 5 was the contracts/LewisHamiltonBKUP.so
 ![0xMonaco](https://jamesbachini.com/misc/0xMonaco.png "0xMonaco")
 
 Code is untested and ever so slightly gross, sorry.
+
+I might do a full write up at some point for the blog https://jamesbachini.com
+
+Thanks to the Paradigm team for putting this together. Looking forward to CTF 2023, will book a few days off for the next one!
