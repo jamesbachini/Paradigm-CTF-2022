@@ -1,13 +1,5 @@
-# Sample Hardhat Project
+# Paradigm CTF 2022
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+Only managed to get a couple of the easiest challenges done before I got addicted to the 0xMonaco challenge.
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-GAS_REPORT=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.js
-```
+The car that got up to 1350 ELO and top 5 was the contracts/LewisHamiltonBKUP.sol one. After that I tried to refactor it and broke everything.
